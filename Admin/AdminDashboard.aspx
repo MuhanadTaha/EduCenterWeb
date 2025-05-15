@@ -90,7 +90,7 @@
                     <Columns>
                         <asp:BoundField DataField="UserID" HeaderText="رقم المعلم" ReadOnly="True" />
                         <asp:BoundField DataField="FullName" HeaderText="اسم المعلم" />
-                        <asp:BoundField DataField="Username" HeaderText="البريد الإلكتروني" />
+                        <asp:BoundField DataField="Username" HeaderText="اسم المستخدم" />
                         <asp:CommandField ShowDeleteButton="True" />
                     </Columns>
                 </asp:GridView>
